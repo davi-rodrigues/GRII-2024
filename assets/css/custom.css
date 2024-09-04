@@ -1,0 +1,36 @@
+
+body {
+  background-color: #ffffff;
+  /* background-color: #d9dee8; */
+  font-size: 18px;
+  padding: 0;
+  margin: 0;
+  /* margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px; */
+}
+
+h1 {
+  color: #ffffff; /* Dark blue-gray for headings */
+  font-size: 45px;
+}
+
+h2, h3, h4, h5, h6 {
+  color: #2c3e50; /* Dark blue-gray for headings */
+  margin-top: 50px;
+}
+
+a {
+  color: #ed2d17; /* Red for links */
+}
+
+a:hover {
+  color: #c0392b; /* Darker red on hover */
+}
+
+main {
+  background-color: #ffffff; /* Color inside the margin (e.g., white) */
+  margin: 0 auto;
+  padding: 20px; /* Adjust padding as needed */
+  /* max-width: 960px; */
+}
