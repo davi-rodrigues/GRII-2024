@@ -1,5 +1,5 @@
 title: "Relatividade Geral II"
 description: "<span style='font-size: 1.2em;'>Prof. Davi Rodrigues </span> <br> PPGCosmo <br> Universidade Federal do Espirito Santo <br> Período 2024/2"
-baseurl: "/grII"  # The name of the repository, starting with a slash
+baseurl: "/grII-2024"  # The name of the repository, starting with a slash
 url: "https://davi-rodrigues.github.io" 
 theme: jekyll-theme-cayman
