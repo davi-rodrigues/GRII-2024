@@ -53,6 +53,10 @@ Paralelamente, espera-se que os alunos aprimorem suas capacidades para ler, comp
 
 Conforme combinado com os alunos, as aulas presenciais serão gravadas, para uso exclusivo dos alunos matriculados no curso. Buscarei fazer o upload das aulas semanalmente, mas sintam-se à vontade para me lembrar em caso de algum atraso.
 
+## Material complementar
+
+A ser adicionado aqui...
+
 ## Avaliação
 * Participação em aula (20%) -- não basta estar presente. Perguntas por email são  consideradas também.
 * Seminários (2 por aluno) (50%)

@@ -15,9 +15,15 @@ h1 {
   font-size: 45px;
 }
 
-h2, h3, h4, h5, h6 {
-  color: #2c3e50; /* Dark blue-gray for headings */
+h2 {
+  color: #467e7b; /* Dark blue-gray for headings */
   margin-top: 50px;
+}
+
+h3, h4, h5, h6 {
+  color: #365475; /* Dark blue-gray for headings */
+  margin-top: 25px;
+  margin-left: 10px;
 }
 
 a {
