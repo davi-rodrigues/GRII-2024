@@ -17,7 +17,7 @@ Paralelamente, espera-se que os alunos aprimorem suas capacidades para ler, comp
    - Ação de Einsten-Hilbert 
    - Casos simples de Gravitação modificada: Brans-Dicke, Horndenski, f(R), f(R) Palatini, f(R) hibrida, f(R, T), Rastall
    - Simetria de calibre na Relatividade Geral
-   - Difeomorfismos e conservação de $T_{\mu \nu}$
+   - Difeomorfismos e definição do tensor energia momento
    - Limite Newtoniano geral (fluidos)
    - Existência de ondas gravitacionais e consequências imediatas
   - **Parte II**: Expansão pós-Newtoniana. 
@@ -28,11 +28,20 @@ Paralelamente, espera-se que os alunos aprimorem suas capacidades para ler, comp
 
   - Parte I: Notas de aula, Wald, Carroll, Weinberg.
   - Parte II: Notas de aula, Poisson & Will (capítulo 8 em especial)
-  - Parte III: 
-  - Parte IV:
+  - Parte III: Notas de aula, Wald, artigos ...
+  - Parte IV: Notas de aula, ...
 
-## Course Outline
-- Introduction
-- Module 1: Basics
-- Module 2: Advanced Topics
-[Google](www.google.com)
+## Aulas gravadas
+
+Conforme combinado com os alunos, as aulas presenciais serão gravadas, para uso exclusivo dos alunos matriculados no curso. Buscarei fazer o upload das aulas semanalmente, mas sintam-se à vontade para me lembrar em caso de algum atraso.
+
+## Avaliação
+* Participação em aula (20%) -- não basta estar presente. Perguntas por email são  consideradas também.
+* Seminários (2 por aluno) (50%)
+* Apresentações de tópicos específicos (exercícios) durante o curso (duas apresentações por aluno ou mais) (30%) -- isto é, duas apresentações perfeitas são suficientes para conceder a nota máxima deste item.
+
+A nota final é a soma das 3 notas acima.
+
+Aprovação: nota final superior ao exigido no curso (atenção: exigências de PPGFis e PPGCosmo são diferentes).
+
+
