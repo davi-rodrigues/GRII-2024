@@ -55,7 +55,7 @@ Conforme combinado com os alunos, as aulas presenciais serão gravadas, para uso
 
 ## Material complementar
 
-A ser adicionado aqui...
+Ver a pasta [material_de_aula](./material_de_aula/)
 
 ## Avaliação
 * Participação em aula (20%) -- não basta estar presente. Perguntas por email são  consideradas também.
