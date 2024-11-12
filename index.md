@@ -20,16 +20,16 @@ Paralelamente, espera-se que os alunos aprimorem suas capacidades para ler, comp
    - Difeomorfismos e definição do tensor energia momento
    - Limite Newtoniano geral (fluidos)
    - Existência de ondas gravitacionais e consequências imediatas
-  - **Parte II**: Expansão pós-Newtoniana. 
-  - **Parte III**: Campos fortes: Estrelas relativísticas e buracos negros
+  - **Parte II**: Campos fortes: Buracos negros e estrelas relativísticas
+  - **Parte III**: Expansão pós-Newtoniana. 
   - **Parte IV**: Produção de ondas gravitacionais 
 
 ## Bibliografia
 
 ### Bibliografia sugerida para cada parte do curso
-  - Parte I: Notas de aula, Wald, Carroll, Weinberg.
-  - Parte II: Notas de aula, Poisson & Will (capítulo 8 em especial)
-  - Parte III: Notas de aula, Wald, ... (outros depois)
+  - Parte I: Notas de aula, Wald, Carroll, Weinberg, Hobson et al...
+  - Parte II: Notas de aula, Grumiller & Sheikh-Jabari, Frolov & Zelnikov, Wald...
+  - Parte III: Notas de aula, Poisson & Will (capítulo 8 em especial)
   - Parte IV: Notas de aula, ... (outros depois)
 
 ### Alguns bons livros de relatividade geral com assinatura indicada
@@ -37,6 +37,8 @@ Paralelamente, espera-se que os alunos aprimorem suas capacidades para ler, comp
 * Notas de aula. Façam suas anotações da aula! <span style="color: blue;">(&minus; + + +)</span>
 * R. Wald, "General Relativity", University Of Chicago Press; n edition (June 15, 1984) <span style="color: blue;">(&minus; + + +)</span>
 * Carroll, "An Introduction to General Relativity" <span style="color: blue;"> (&minus; + + +)</span>
+* Frolov & Zelnikov, "Introduction to Black Hole Physics" <span style="color: blue;">(&minus; + + +)</span>
+* Grumiller & Sheikh-Jabari, "Black Hole physics" <span style="color: blue;">(&minus; + + +)</span>
 * Hartle, "An Introduction to Einstein's General Relativity" <span style="color: blue;">(&minus; + + +)</span>
 * S. Weinberg, "Gravitation and Cosmology", John Wiley & Sons, Inc.; 1 edition (July 1972) <span style="color: red;">(+ &minus; &minus; &minus;)</span> -- e sinal do tensor de Riemann diferente do usual
 * J. Plebanski & A. Krasinski, "An introduction to General Relativity and Cosmology" , Cambridge University Press (September 13, 2012) <span style="color: red;">(+ &minus; &minus; &minus;)</span>
