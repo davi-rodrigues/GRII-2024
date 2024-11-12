@@ -61,7 +61,7 @@ Ver a pasta [material_de_aula](https://github.com/davi-rodrigues/GRII-2024/tree/
 
 ## Avaliação
 * Participação em aula (20%) -- não basta estar presente. Perguntas por email são  consideradas também.
-* Seminários (2 por aluno) (50%)
+* Seminários (1 por aluno) (50%)
 * Apresentações de tópicos específicos (exercícios) durante o curso (duas apresentações por aluno ou mais) (30%) -- isto é, duas apresentações perfeitas são suficientes para conceder a nota máxima deste item.
 
 A nota final é a soma das 3 notas acima.
