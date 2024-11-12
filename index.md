@@ -35,18 +35,18 @@ Paralelamente, espera-se que os alunos aprimorem suas capacidades para ler, comp
 ### Alguns bons livros de relatividade geral com assinatura indicada
 
 * Notas de aula. Façam suas anotações da aula! <span style="color: blue;">(&minus; + + +)</span>
-* R. Wald, "General Relativity", University Of Chicago Press; n edition (June 15, 1984) <span style="color: blue;">(&minus; + + +)</span>
+* R. Wald, "General Relativity", University Of Chicago Press (1984) <span style="color: blue;">(&minus; + + +)</span>
 * Carroll, "An Introduction to General Relativity" <span style="color: blue;"> (&minus; + + +)</span>
 * Frolov & Zelnikov, "Introduction to Black Hole Physics" <span style="color: blue;">(&minus; + + +)</span>
-* Grumiller & Sheikh-Jabari, "Black Hole physics" <span style="color: blue;">(&minus; + + +)</span>
 * Hartle, "An Introduction to Einstein's General Relativity" <span style="color: blue;">(&minus; + + +)</span>
-* S. Weinberg, "Gravitation and Cosmology", John Wiley & Sons, Inc.; 1 edition (July 1972) <span style="color: red;">(+ &minus; &minus; &minus;)</span> -- e sinal do tensor de Riemann diferente do usual
+* S. Weinberg, "Gravitation and Cosmology", John Wiley & Sons, Inc. (1972) <span style="color: red;">(+ &minus; &minus; &minus;)</span> -- e sinal do tensor de Riemann diferente do usual
 * J. Plebanski & A. Krasinski, "An introduction to General Relativity and Cosmology" , Cambridge University Press (September 13, 2012) <span style="color: red;">(+ &minus; &minus; &minus;)</span>
-* ​M. P. Hobson, G. P. Efstathiou, A. N. Lasenby, "General Relativity: An Introduction for Physicists", Cambridge University Press (March 27, 2006).​ <span style="color: red;">(+ &minus; &minus; &minus;)</span>
+* ​M. P. Hobson, G. P. Efstathiou, A. N. Lasenby, "General Relativity: An Introduction for Physicists", Cambridge University Press (2006).​ <span style="color: red;">(+ &minus; &minus; &minus;)</span>
 * d'Inverno, "Introduction to Einstein's Relativity" <span style="color: red;">(+ &minus; &minus; &minus;)</span>
 * ...
 
 ### Bibliografia para alguns tópicos específicos:
+* Buracos negros: Grumiller & Sheikh-Jabari, "Black Hole physics" <span style="color: blue;">(&minus; + + +)</span>
 * Sobre derivada funcional, sugiro ver Greiner & Reinhardt, "Field Quantization", Springer (1995), Capítulo 2 - Classical Field Theory.
 * Sobre tensores, um bom livro específico sobre o tema é Ilya Shapiro, "A primer in tensor analysis and relativity", Springer (2019)
 * Sobre variedades, numa abordagem além do usual de livros de relatividade geral, sugiro John Lee, "Introduction to Smooth Manifolds" (2000)
